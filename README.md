@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amine Bouramtane</h1>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0">
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abouramt" alt="hchaguer's 42 stats" /></a>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
@@ -19,6 +18,6 @@
 </p>
 <br>
 <br>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abouramt" alt="hchaguer's 42 stats" /></a>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aminebouramtane&show_icons=true&locale=en&layout=compact" alt="Aminebouramtane" /></p>
 
