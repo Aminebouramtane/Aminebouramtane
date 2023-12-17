@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Amine Bouramtane</h1>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abouramt" alt="hchaguer's 42 stats" /></a>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<a align="right" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abouramt" alt="hchaguer's 42 stats" /></a>
+<p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 - 🌱 I’m currently learning **Laravel, ReactJs**
