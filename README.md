@@ -19,4 +19,4 @@
 </p>
 <br>
 <br>
-<a align="right" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abouramt" alt="hchaguer's 42 stats" /></a>
+<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abouramt" alt="hchaguer's 42 stats" /></a>
