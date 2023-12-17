@@ -20,5 +20,5 @@
 <br>
 <br>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abouramt" alt="hchaguer's 42 stats" /></a>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aminebouramtane&show_icons=true&locale=en&layout=compact" alt="Aminebouramtane" /></p>
 
