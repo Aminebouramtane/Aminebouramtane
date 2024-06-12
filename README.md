@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Amine Bouramtane</h1>
 
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0">
