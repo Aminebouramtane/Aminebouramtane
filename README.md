@@ -3,11 +3,11 @@
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=Aminebouramtane&style=flat&labelColor=000000&logo=github&label=PROFILE+VIEWS&color=0969da"/>
 <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/Aminebouramtane?color=0969da&logo=github&label=FOLLOWERS"/>
 
-<h1> Hello World! 👋 </h1>
+<h1> Hello World </h1>
 
 <br>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Amine Bouramtane](https://www.linkedin.com/in/amine-bouramtane/) and welcome to my GitHub profile! :octocat:
+### I'm [Amine Bouramtane](https://www.linkedin.com/in/amine-bouramtane/) and welcome to my GitHub profile
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=0969da&background=FFFFFF&center=true&vCenter=true&width=480&lines=I'm+an+AI+Engineer;a+Data+Analyst;a+Computer+Vision+Specialist;and+a+1337+Coding+School+Student!)](https://git.io/typing-svg)
 
@@ -19,25 +19,19 @@
 
 </div>
 
-**Fun facts & About Me:**
+### About Me
 
-🎓 Master's degree in **Artificial Intelligence & Data Science** (Faculty of Sciences Semlala, Cadi Ayyad University) and Bachelor's in **Data Analytics & Decision-Making Systems** (Honors).
-
-💻 Currently leveling up in Software Architecture & Advanced Development at **1337 Coding School (UM6P Benguerir)**.
-
-📊 Professional experience as a **Data Analyst** at NewDev Fès and **Full-Stack Developer** at Atlecs.
-
-👁️ Deeply passionate about **Computer Vision**, Real-Time Object Detection (YOLOv5/v8, DETR), Edge AI Deployment, and Data Warehousing/BI.
-
-🤔 If you don't optimize your SQL queries and model inference pipelines, we need to have a talk!
+- ![](https://img.shields.io/badge/Education-4285F4?style=flat-square&logo=google-scholar&logoColor=white) Master's degree in **Artificial Intelligence & Data Science** (Faculty of Sciences Semlala, Cadi Ayyad University) and Bachelor's in **Data Analytics & Decision-Making Systems** (Honors).
+- ![](https://img.shields.io/badge/School-000000?style=flat-square&logo=42&logoColor=white) Currently leveling up in Software Architecture & Advanced Development at **1337 Coding School (UM6P Benguerir)**.
+- ![](https://img.shields.io/badge/Experience-28A745?style=flat-square&logo=chartdotjs&logoColor=white) Professional background as a **Data Analyst** at NewDev Fès and **Full-Stack Developer** at Atlecs.
+- ![](https://img.shields.io/badge/Specialization-6f42c1?style=flat-square&logo=opencv&logoColor=white) Focused on **Computer Vision**, Real-Time Object Detection (YOLOv5/v8, DETR), Edge AI Deployment, and Data Warehousing/BI.
+- ![](https://img.shields.io/badge/Engineering-D9381E?style=flat-square&logo=target&logoColor=white) Focused on scalable data workflows, clean code, and optimized inference pipelines.
 
 <br>
 
 <div align="center">
 
-<div align="center">
-
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <div align="center">
 
@@ -72,9 +66,9 @@
 
 <br>
 
-## 📊 GitHub Stats & Metrics
+## GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aminebouramtane&show_icons=true&theme=radical&hide_border=true" alt="Amine's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aminebouramtane&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminebouramtane&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
