@@ -1,6 +1,6 @@
 # Amine Bouramtane
 
-AI Engineer and Data Analyst with a solid software engineering background[cite: 1]. Experienced in designing and deploying end-to-end machine learning, computer vision, and business intelligence solutions alongside scalable full-stack applications[cite: 1].
+AI Engineer and Data Analyst with a solid software engineering background[. Experienced in designing and deploying end-to-end machine learning, computer vision, and business intelligence solutions alongside scalable full-stack applications.
 
 ---
 
