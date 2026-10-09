@@ -35,36 +35,38 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 🛠️ Languages and Tools
 
 <div align="center">
 
 <!-- AI / ML / CV -->
-<a href="https://www.python.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a>
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="45" /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="45" /></a>
-<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/scikit-learn.svg" alt="Scikit-learn" height="45" /></a>
-<a href="https://opencv.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="45" /></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="45" /></a>
-<a href="https://numpy.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/numpy-original.svg" alt="NumPy" height="45" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="45" /></a>
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="45" /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="45" /></a>
+<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 8px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="45" /></a>
+<a href="https://opencv.org/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" height="45" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="45" /></a>
+<a href="https://numpy.org/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="45" /></a>
 
 <br>
 
 <!-- Data & Databases -->
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="45" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="45" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="45" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="45" /></a>
 <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 8px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" height="45" /></a>
 
 <br>
 
 <!-- Full Stack & DevOps / System -->
-<a href="https://www.php.net/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="45" /></a>
-<a href="https://laravel.com/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="45" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="45" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="45" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="45" /></a>
+<a href="https://www.php.net/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="45" /></a>
+<a href="https://laravel.com/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" height="45" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="45" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="45" /></a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="45" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="45" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="45" /></a>
 
 </div>
 
