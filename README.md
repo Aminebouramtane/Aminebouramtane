@@ -1,16 +1,41 @@
-<h1 align="center">Hi 👋, I'm Amine Bouramtane</h1>
+# Amine Bouramtane
 
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0">
-<p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+AI Engineer and Data Analyst with a solid software engineering background[cite: 1]. Experienced in designing and deploying end-to-end machine learning, computer vision, and business intelligence solutions alongside scalable full-stack applications[cite: 1].
 
-- 🌱 I’m Full Stack Web Developer
+---
 
-- 💬 Ask me about **Laravel, React**
+### Focus & Expertise
 
-- 📄 Know about my experiences [bouramtaneamine1@gmail.com](bouramtaneamine1@gmail.com)
+* **Machine Learning & Deep Learning**: Supervised and unsupervised modeling, predictive analytics, model optimization, edge inference[cite: 1].
+* **Computer Vision**: Real-time object detection and tracking, video analytics, OpenCV, YOLO architectures, DETR[cite: 1].
+* **Data Engineering & BI**: End-to-end ETL pipelines, exploratory data analysis, data warehousing, interactive dashboards[cite: 1].
+* **Software Engineering**: RESTful API design, database architecture, CI/CD integration[cite: 1].
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/amine-bouramtane-72975a259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amine-bouramtane-72975a259/" height="30" width="40" /></a>
-</p>
+---
 
+### Technical Toolkit
+
+* **Languages & Core**: Python, SQL, PHP, JavaScript, C/C++[cite: 1]
+* **AI & Machine Learning**: PyTorch, TensorFlow, Scikit-learn, OpenCV[cite: 1]
+* **Data & Analytics**: Pandas, NumPy, Power BI, MySQL, MongoDB[cite: 1]
+* **Web & DevOps**: Laravel, Livewire, Docker, Git, Linux, MQTT[cite: 1]
+
+---
+
+### Featured Projects
+
+* **AI-Powered Surveillance for Smart Agriculture**  
+  Real-time automated intrusion detection pipeline using YOLOv8, DETR, and OpenCV with edge deployment and low-latency MQTT communication[cite: 1].
+
+* **Real-Time Object Detection & Tracking Pipeline**  
+  High-throughput video processing system benchmarking multiple deep learning architectures for surveillance feeds[cite: 1].
+
+* **E-Commerce Data Mining & BI Platform**  
+  Star-schema data warehouse, RFM customer segmentation via K-Means, and predictive modeling paired with interactive Power BI reporting[cite: 1].
+
+---
+
+### Connect
+
+* **LinkedIn**: [linkedin.com/in/amine-bouramtane-72975a259](https://www.linkedin.com/in/amine-bouramtane-72975a259/)
+* **Email**: [bouramtaneamine1@gmail.com](mailto:bouramtaneamine1@gmail.com)[cite: 1]
